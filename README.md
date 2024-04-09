@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Addis_Software_Test_project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is Music app that display list of songs and enable users to create, update and delate songs.
 
 ## Available Scripts
 
